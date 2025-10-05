@@ -230,44 +230,10 @@ swaas-app/
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions from the community! Please check our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-### Development Workflow
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## 🏆 Awards & Recognition
-
-- 🥇 **Best Social Impact App** - Tech Innovation Awards 2024
-- 🌟 **Government Approved** - Swachh Bharat Initiative Partner
-- 💚 **Eco Innovation Grant** Recipient 2024
-
----
-
-## 📞 Support & Contact
-
-- **Email**: support@swaas.app
-- **Website**: https://swaas.app
-- **Documentation**: https://docs.swaas.app
-- **Community**: [Join our Discord](https://discord.gg/swaas)
-
-<div align="center">
-
-### 🌍 Join us in building a cleaner, greener future!
-
-**"Small actions today, big impact tomorrow"** ♻️
 
 </div>
