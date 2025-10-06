@@ -11,6 +11,8 @@
     "typecheck": "tsc --noEmit -p tsconfig.app.json"
   },
   "dependencies": {
+    "@google/genai": "^1.22.0",
+    "@google/generative-ai": "^0.24.1",
     "@supabase/supabase-js": "^2.57.4",
     "firebase": "^12.3.0",
     "lucide-react": "^0.344.0",
